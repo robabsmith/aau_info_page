@@ -1,4 +1,10 @@
 base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
 reshape2
 knitr
 countrycode
@@ -20,6 +26,6 @@ readxl
 OECD
 scales
 randomcoloR
+grid
 foreign
 rsdmx
-plotly
